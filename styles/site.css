@@ -1,0 +1,22 @@
+.siteroot {
+  max-width: 100%;
+  height: 100vh;
+}
+
+.siteheader {
+  min-height: 4rem;
+  align-content: center;
+  padding: 1rem !important;
+  background-color: #212529;
+  color: #fff;
+}
+
+.sitebody {
+  height: 100%;
+}
+
+.container,
+.row {
+  margin: 0px;
+  padding: 0px;
+}
